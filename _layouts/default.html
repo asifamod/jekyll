@@ -4,7 +4,11 @@
   {% include head.html %}
 
     <body id="single">
-
+      <script>
+      var host = "designfundi.github.io";
+      if ((host == window.location.host) && (window.location.protocol != "https:"))
+          window.location.protocol = "https";
+      </script>
     {% include header.html %}
 
     <div class="page-content">

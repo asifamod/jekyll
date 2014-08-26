@@ -594,9 +594,23 @@ text-align:center;
   background-color: #fff;
 }
 
+.header-21 .navbar li:hover {
+	background-color: #fff;
+}
+
 .header-21 .navbar .nav > li:hover {
 	color: #3ba933;
   background-color: #fff;
+}
+
+/* dropdown nav */
+
+.dropdown-menu {
+    background-color: #34495e;
+}
+
+.dropdown-menu > li > a {
+	color:#fff;	
 }
 
 .header-21 .social-btns {

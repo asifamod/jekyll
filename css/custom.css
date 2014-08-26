@@ -594,8 +594,11 @@ text-align:center;
   background-color: #fff;
 }
 
+.header-21 .navbar li:hover,
+.header-21 .navbar li,
+.header-21 .navbar li a,
 .header-21 .navbar li:hover {
-	background-color: #fff;
+	background-color: #fff !important;
 }
 
 .header-21 .navbar .nav > li:hover {

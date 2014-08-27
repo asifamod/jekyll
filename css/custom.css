@@ -894,7 +894,9 @@ body .footer-11 .additional-links p.lead {
 	  min-height:276px;  
   }
   
-  .projects-1.thinking .project {
-	  min-height:535px;  
+  .projects-1.thinking .project,
+  .projects-1.thinking .project-wrapper {
+	  min-height:535px; 
+	  overflow:hidden; 
   }
 }

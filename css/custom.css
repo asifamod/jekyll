@@ -435,8 +435,8 @@ margin-bottom: 15px;
 }
 
 .home .projects-3 h3 {
-	font-size: 23px;
-	margin: 14px 0;	
+	font-size: 23px !important;
+	margin: 14px 0 !important;	
 }
 
 

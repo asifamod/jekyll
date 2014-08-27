@@ -1,11 +1,11 @@
 # Site settings
 title: The Shuttleworth Foundation
-email: jason@shuttleworthfoundation.org
-description: "We're the Shuttleworth Foundation. We provide funding for dynamic leaders who are at the forefront of social change."
-baseurl: ""
-url: "http://shuttleworthfoundation.org"
-twitter_username: ShuttleworthFdn
-github_username: jasonhudson
+email: asifamod@designfundi.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+baseurl: "/jekyll"
+url: "http://yourdomain.com"
+twitter_username: jekyllrb
+github_username: designfundi
 
 # Build settings
 markdown: kramdown

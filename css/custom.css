@@ -208,6 +208,9 @@ font-size:35px;
 text-align:center;	
 margin-bottom: 30px;
 }
+#home #fellowship h2 {
+	margin-bottom: 14px;
+}
 
 #home #fellowship h3 {
 	font-family:'Open Sans', sans-serif;
@@ -434,6 +437,11 @@ margin-bottom: 15px;
 	height:220px;
 }
 
+#home #fellowship.projects-3 h3 {
+	font-size: 23px !important;
+	margin: 14px 0 !important;	
+}
+
 
 /* Applications Styles */
 
@@ -529,7 +537,7 @@ margin-bottom: 20px;
 #application .col-sm-3 label,
 #application .col-sm-2 label {
 width:100%;
-text-align:center;	
+/*text-align:center;*/
 }
 
 .fsPage input[disabled="disabled"],
@@ -880,4 +888,23 @@ body .footer-11 .additional-links p.lead {
 
 #team .textcontainer {
 	margin-bottom: 60px;
+}
+
+@media (min-width: 779px) {
+
+  .projects-1.thinking .blog-excerpt {
+		min-height:155px;  
+  }
+  .projects-1.thinking .name {
+	  min-height:45px;  
+  }
+  .projects-1.thinking .info {
+	  min-height:276px;  
+  }
+  
+  .projects-1.thinking .project,
+  .projects-1.thinking .project-wrapper {
+	  min-height:535px; 
+	  overflow:hidden; 
+  }
 }

@@ -1,12 +1,20 @@
 ---
 layout: default
-title: Sean Bonner
+title:  "Welcome Sean Bonner"
+post_date:   "26 August 2014"
+tag: Announcements
+author: SF Team
+published: true
+image: /images/blog/blog-electronics.jpg
+description: Sean Bonner will be joining the Shuttleworth Foundaton Fellowship Program on...
+redirect_url: "/thinking/thinking-sean-bonner"
+---
 ---
 <div class="page-wrapper">
 <!-- Featured Thinking Banner -->    
 <section class="header-10-sub v-center">
 														<!-- insert featured image here -->
-    <div class="background" style="background-image: url(../../images/blog/blog-welcome.jpg);"></div>
+    <div class="background" style="background-image: url(../../../../images/blog/blog-welcome.jpg);"></div>
     <div>
         <div class="container">
         </div>
@@ -38,7 +46,7 @@ title: Sean Bonner
         <div class="boxes">
             <div class="box-1">
             <!-- insert featured image here -->
-            <img src="../../images/blog/blog-electronics1.jpg">
+            <img src="../../../../images/blog/blog-electronics1.jpg">
             <p class="credit">
                 By Fumi Yamazaki (CC BY-NC-SA 2.0)<br />
                 Source: <a href="https://secure.flickr.com/photos/fumi/8050493981">flickr.com/photos/fumi/8050493981</a>

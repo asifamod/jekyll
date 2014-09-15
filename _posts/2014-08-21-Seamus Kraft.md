@@ -1,12 +1,18 @@
 ---
 layout: default
-title: Seamus Kraft
+title: "Welcome Seamus Kraft"
+post_date: "26 August 2014"
+tag: Announcements
+author: SF Team
+published: true
+image: /images/blog/blog-democracy.jpg
+description: "Seamus applied to the Foundation to expand his work on the Madison Project which..."
 ---
 <div class="page-wrapper">
 <!-- Featured Thinking Banner -->    
 <section class="header-10-sub v-center">
 														<!-- insert featured image here -->
-    <div class="background" style="background-image: url(../../images/blog/blog-welcome.jpg);"></div>
+    <div class="background" style="background-image: url(../../../../images/blog/blog-welcome.jpg);"></div>
     <div>
         <div class="container">
         </div>
@@ -38,7 +44,7 @@ title: Seamus Kraft
         <div class="boxes">
             <div class="box-1">
             <!-- insert featured image here -->
-            <img src="../../images/blog/blog-democracy1.jpg">
+            <img src="../../../../images/blog/blog-democracy1.jpg">
             <p class="credit">
                 By Mike Hiatt (CC BY-NC-SA 2.0)<br />
                 Source: <a href="https://secure.flickr.com/photos/mfhiatt/5513840452">flickr.com/photos/mfhiatt/5513840452</a>

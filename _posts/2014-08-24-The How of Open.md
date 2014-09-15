@@ -1,11 +1,19 @@
 ---
 layout: default
-title: The How of Open
+title:  "The How of Open"
+post_date: "15 May 2014"
+tag: Open
+author: SF Team
+published: true
+image: /images/blog/blog-how-of-open.jpg
+description: Open source, open access and open educational resources are...
+redirect_url: "/thinking/thinking-how-of-open"
+---
 ---
 <div class="page-wrapper">
 <!-- Featured Thinking Banner -->    
 <section class="header-10-sub v-center">											<!-- insert featured image here -->
-    <div class="background" style="background-image: url(../../images/blog/blog-how-of-open.jpg);"></div>
+    <div class="background" style="background-image: url(../../../../images/blog/blog-how-of-open.jpg);"></div>
     <div>
         <div class="container">
         </div>
@@ -37,7 +45,7 @@ title: The How of Open
         <div class="boxes">
             <div class="box-1">
             <!-- insert featured image here -->
-            <img src="../../images/blog/blog-how-of-open 2.jpg">
+            <img src="../../../../images/blog/blog-how-of-open 2.jpg">
             <p class="credit">
                 By  opensource.com (CC BY-SA 2.0)<br />
                 Source: <a href="https://www.flickr.com/photos/opensourceway/8297629922">flickr.com/photos/opensourceway/8297629922</a>

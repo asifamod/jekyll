@@ -1,12 +1,19 @@
 ---
 layout: default
-title: Application Pointers 
+title:  "Application Pointers"
+post_date: "20 February 2014"
+tag: Announcements
+author: SF Team
+published: true
+image: /images/blog/blog-application-pointers.jpg
+description: Over the years we have reviewed (and funded) many, many proposals and fellowship applications...
+redirect_url: "/thinking/thinking-application-pointers"
 ---
 <div class="page-wrapper">
 <!-- Featured Thinking Banner -->    
 <section class="header-10-sub v-center">
 <!-- insert featured image here -->
-    <div class="background" style="background-image: url(../../images/blog/blog-application-pointers%202.jpg);"></div>
+    <div class="background" style="background-image: url(../../../../images/blog/blog-application-pointers%202.jpg);"></div>
     <div>
         <div class="container">
         </div>
@@ -38,7 +45,7 @@ title: Application Pointers
         <div class="boxes">
             <div class="box-1">
             <!-- insert featured image here -->
-            <img src="../../images/blog/blog-application-pointers 2.jpg">
+            <img src="../../../../images/blog/blog-application-pointers 2.jpg">
             <p class="credit">
                 Created by Flazingo Photos www.flazingo.com (CC BY-SA 2.0)<br />
                 Source: <a href="https://www.flickr.com/photos/124247024@N07/14089983055">flickr.com/photos/124247024@N07/14089983055</a>

@@ -1,12 +1,20 @@
 ---
 layout: default
-title: From traditional funder to today
+title:  "From Traditional Funder to Today"
+post_date: "16 February 2014"
+tag: Open
+author: SF Team
+published: true
+image: /images/blog/blog-make-things-better.jpg
+description: The Shuttleworth Foundation was established in October 2000 with the belief...
+redirect_url: "/thinking/thinking-traditional-funder-to-today"
+---
 ---
 <div class="page-wrapper">
 <!-- Featured Thinking Banner -->    
 <section class="header-10-sub v-center">
 														<!-- insert featured image here -->
-    <div class="background" style="background-image: url(../../images/blog/blog-make-better.jpg);"></div>
+    <div class="background" style="background-image: url(../../../../images/blog/blog-make-better.jpg);"></div>
     <div>
         <div class="container">
         </div>
@@ -39,7 +47,7 @@ title: From traditional funder to today
         <div class="boxes">
             <div class="box-1">
             <!-- insert featured image here -->
-            <img src="../../images/blog/blog-make-better.jpg">
+            <img src="../../../../images/blog/blog-make-better.jpg">
             <p class="credit">
                 Created by Race Bannon (CC BY 2.0)<br />
                 Source: <a href="https://www.flickr.com/photos/bewareofdog/284783751/">flickr.com/photos/bewareofdog/284783751/</a>

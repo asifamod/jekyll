@@ -73,12 +73,12 @@ title: Shuttleworth Foundation- Our Thinking
                 <div class="project">
                     <div class="photo-wrapper">
                         <div class="photo"><img src="{{ post.image | prepend: site.baseurl}}" alt="Sean Bonner"></div>
-                      <a href="{{ post.redirect_url | prepend: site.baseurl }}">                        
+                      <a href="{{ post.url | prepend: site.baseurl }}">                        
                         <div class="overlay"><span class="fui-eye"></span></div></a>
                     </div>
                     <div class="info">
 
-                        <h4 class="name"><a href="{{ post.redirect_url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+                        <h4 class="name"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
                         <p class="blog-author-date">by <a href="{{ "/team" | prepend: site.baseurl }}">{{post.author}}</a>, {{post.post_date}}</p>
                         <p class="blog-excerpt">{{ post.description }}</p>
                         <p class="blog-meta">posted in <a href="{{ "/thinking/announcements" | prepend: site.baseurl }}">{{ post.tag }}</a></p>
@@ -98,13 +98,9 @@ title: Shuttleworth Foundation- Our Thinking
 
 <style>
 .project {
-    margin: 77px !important;
+    margin: 77px 97px 77px 0px !important;
 }
 
-.container{
-    width: 100% !important;
-    /*text-align: center;*/
-}
 .project-wrapper {
     padding-left: 29px;
 }

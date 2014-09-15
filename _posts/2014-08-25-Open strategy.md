@@ -1,12 +1,18 @@
 ---
 layout: default
-title: Open Strategy
+title:  "Open strategy"
+post_date: "3 March 2014"
+tag: Open
+author: SF Team
+published: true
+image: /images/blog/blog-privacy.jpg
+description: Philanthropic and charitable institutions seek to alleviate and solve social problems. It is private practice for....
 ---
 <div class="page-wrapper">
 <!-- Featured Thinking Banner -->    
 <section class="header-10-sub v-center">
 														<!-- insert featured image here -->
-    <div class="background" style="background-image: url(../../images/blog/blog-open-strategy.jpg);"></div>
+    <div class="background" style="background-image: url(../../../../images/blog/blog-open-strategy.jpg);"></div>
     <div>
         <div class="container">
         </div>
@@ -39,7 +45,7 @@ title: Open Strategy
         <div class="boxes">
             <div class="box-1">
             <!-- insert featured image here -->
-            <img src="../../images/blog/blog-open-strategy 2.jpg">
+            <img src="../../../../images/blog/blog-open-strategy 2.jpg">
             <p class="credit">
                 Created by Jessica Duensing for opensource.com. (CC BY-SA 2.0)<br />
                 Source: <a href="https://www.flickr.com/photos/opensourceway/6555466069">flickr.com/photos/opensourceway/6555466069</a>

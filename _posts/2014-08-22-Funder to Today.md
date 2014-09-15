@@ -2,7 +2,8 @@
 layout: default
 title:  "From Traditional Funder to Today"
 post_date: "16 February 2014"
-tag: Open
+tags: 
+- open
 author: SF Team
 published: true
 image: /images/blog/blog-make-things-better.jpg

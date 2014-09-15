@@ -2,7 +2,8 @@
 layout: default
 title:  "Welcome Sean Bonner"
 post_date:   "26 August 2014"
-tag: Announcements
+tags:
+- announcements
 author: SF Team
 published: true
 image: /images/blog/blog-electronics.jpg

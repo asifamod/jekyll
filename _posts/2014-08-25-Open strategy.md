@@ -2,7 +2,7 @@
 layout: default
 title:  "Open strategy"
 post_date: "3 March 2014"
-tag: Open
+tags: open
 author: SF Team
 published: true
 image: /images/blog/blog-privacy.jpg

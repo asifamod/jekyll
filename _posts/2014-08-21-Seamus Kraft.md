@@ -2,14 +2,16 @@
 layout: default
 title: "Welcome Seamus Kraft"
 post_date: "26 August 2014"
-tag: Announcements
+tags: 
+- announcements
 author: SF Team
 published: true
 image: /images/blog/blog-democracy.jpg
 description: "Seamus applied to the Foundation to expand his work on the Madison Project which..."
 ---
+
 <div class="page-wrapper">
-<!-- Featured Thinking Banner -->    
+<!-- Featured Thinking Banner -->  
 <section class="header-10-sub v-center">
 														<!-- insert featured image here -->
     <div class="background" style="background-image: url(../../../../images/blog/blog-welcome.jpg);"></div>

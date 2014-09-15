@@ -2,7 +2,8 @@
 layout: default
 title:  "The How of Open"
 post_date: "15 May 2014"
-tag: Open
+tags:
+- open
 author: SF Team
 published: true
 image: /images/blog/blog-how-of-open.jpg

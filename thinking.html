@@ -66,29 +66,10 @@ title: Shuttleworth Foundation- Our Thinking
 
 		<!-- Other Thought Pieces -->
 
-	<div class="projects row">
-        
-	<div class="project-wrapper">
-                <div class="project">
-                    <div class="photo-wrapper">
-                        <div class="photo"><img src="../images/blog/blog-exit1.jpg" alt="Arthur & Jaisen"></div>
-                      <a href="{{ "/thinking/thinking-fellowship-exit-2014" | prepend: site.baseurl }}">                        
-                        <div class="overlay"><span class="fui-eye"></span></div></a>
-                    </div>
-                    <div class="info">
-                        <h4 class="name"><a href="{{ "/thinking/thinking-fellowship-exit-2014" | prepend: site.baseurl }}">Arthur & Jaisen - new alumni</a></h4>
-                        <p class="blog-author-date">by <a href="{{ "/team" | prepend: site.baseurl }}">SF Team</a>, 9 September 2014</p>
-                        <p class="blog-excerpt">While our fellowships are for a year at a time, Fellows can apply for consecutive...<br>
-                        <span class="blog-meta">posted in <a href="{{ "/thinking/announcements" | prepend: site.baseurl }}">Announcements</a></span>
-                        </p>
-                   		
-                    </div>
-                </div>
-            </div>
-
+	<div class="projects row"> 
             {% for post in site.posts reversed %}  
                 <div class="project">
-                    <div class="photo-wrapper">
+                    <div class="photo-wrapper pic_align">
                         <div class="photo"><img src="{{ post.image | prepend: site.baseurl}}" alt="Sean Bonner"></div>
                       <a href="{{ post.url | prepend: site.baseurl }}">                        
                         <div class="overlay"><span class="fui-eye"></span></div></a>
@@ -106,7 +87,7 @@ title: Shuttleworth Foundation- Our Thinking
                             </ul>
                         </p>
                     </div>
-                </div>                
+                </div> 
             {% endfor %}  
         </div>
     
@@ -121,11 +102,11 @@ title: Shuttleworth Foundation- Our Thinking
 
 <style>
 .project {
-    margin: 77px 97px 77px 0px !important;
+    margin: 0px 10px 0px 93px !important
 }
 
 .project-wrapper {
-    padding-left: 29px;
+    padding-left: 29px !important;
 }
 
 </style>

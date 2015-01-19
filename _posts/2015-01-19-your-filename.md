@@ -10,6 +10,8 @@ image: "/images/blog/blog-openness.jpg"
 description: Openness is at the core of the ...
 ---
 
-## A New Post
+## - item
+- item
+- item## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

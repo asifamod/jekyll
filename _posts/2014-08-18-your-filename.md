@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Post3 Title!"
-date: {}
+date: "26 August 2014"
 categories: jekyll update
 author: auther name
 published: true

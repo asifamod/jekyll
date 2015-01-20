@@ -25,9 +25,8 @@ title: Thinking articles tagged in Announcements
 
 
 		<!-- Thought Pieces posted within the tag Announcements -->
-        <div class="projects row">       
+        <div class="projects row project_row">       
                   
-        <div class="project-wrapper">
 
             {% for post in site.posts reversed %}
              {% for tag in post.tags %}
@@ -44,9 +43,8 @@ title: Thinking articles tagged in Announcements
                         <p class="blog-author-date">by <a href="{{ "/team" | prepend: site.baseurl }}">{{post.author}}</a>, {{post.post_date}}</p>
                         <p class="blog-excerpt">{{ post.description }}</p>
                         <p class="blog-meta">posted in
-                             <ul >
                                 {% for tag in post.tags %}
-                                    <li  ><a class="tag_list_link" href="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</a></li>
+                                   <a class="tag_list_link" href="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</a>
                                     {% endfor %}
                             </ul>
                         </p>
@@ -55,7 +53,6 @@ title: Thinking articles tagged in Announcements
                 {% endif %}
               {% endfor %}                
             {% endfor %}  
-        </div>
     
     </div><!-- end project row -->
         
@@ -67,11 +64,18 @@ title: Thinking articles tagged in Announcements
 
 <style>
 .project {
-    margin: 77px 97px 77px 0px !important;
+    margin: 0 28px 0 134px !important;
+    vertical-align: top;
 }
 
 .project-wrapper {
-    padding-left: 29px;
+    padding-left: 29px !important;
 }
+
+.project_row{
+     margin-left: -150px;
+    width: 115% !important;
+}
+
 
 </style>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "The How of Open"
 post_date: "15 May 2014"
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Open strategy"
 post_date: "3 March 2014"
 tags: open

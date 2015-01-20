@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 published: true
 ---
@@ -14,4 +14,25 @@ published: true
   {{ content }}
   </article>
 
-</div>
+</div> -->
+
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body id="single">
+      
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrap">
+      <!-- This loops through the paginated posts -->
+      {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    </body>
+</html>

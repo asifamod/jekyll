@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Welcome Sean Bonner"
 post_date:   "26 August 2014"
 tags:

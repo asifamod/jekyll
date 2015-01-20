@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Welcome Seamus Kraft"
 post_date: "26 August 2014"
 tags: 

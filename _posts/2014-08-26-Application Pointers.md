@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Application Pointers"
 post_date: "20 February 2014"
 tags: 

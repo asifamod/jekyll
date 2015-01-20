@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "From Traditional Funder to Today"
 post_date: "16 February 2014"
 tags: 

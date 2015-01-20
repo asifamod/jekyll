@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Welcome Peter Bloom"
 post_date:   "26 August 2014"
 tags: 
@@ -52,13 +52,14 @@ redirect_url: "/thinking/thinking-peter-bloom"
         <!-- thought piece main content -->
         
         <div class="textcontainer">
-        	<div class="textbox col-sm-8 col-sm-offset-2">
-		<p>We have invested in telecommunication initiatives before, as communication is absolutely key to be part of society as we know it. As long as you are not connected to the global communication network, you are excluded from participating in human development beyond the limitations of time and distance.</p>
-		<p>Access to telecommunication is a matter of cost, infrastructure, hardware and policy. Through our investments so far we have learnt a lot about cost and hardware. We are particularly interested in and excited about how Peter is addressing all four in a way that removes practical and policy barriers. We hope to see his approach develop into a sustainable, replicable model.</p>
-		<p>
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='//player.vimeo.com/video/92422924' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-		</p>                
-            </div>
+            <div class="textbox col-sm-8 col-sm-offset-2">
+        		<p>We have invested in telecommunication initiatives before, as communication is absolutely key to be part of society as we know it. As long as you are not connected to the global communication network, you are excluded from participating in human development beyond the limitations of time and distance.</p>
+        		<p>Access to telecommunication is a matter of cost, infrastructure, hardware and policy. Through our investments so far we have learnt a lot about cost and hardware. We are particularly interested in and excited about how Peter is addressing all four in a way that removes practical and policy barriers. We hope to see his approach develop into a sustainable, replicable model.</p>
+        		<p>
+                   <div class='embed-container'><iframe src='//player.vimeo.com/video/92422924' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+                   </div>
+        		</p>                
+          </div>
         </div>
 
 		<!-- to be enabled later -->
@@ -67,5 +68,7 @@ redirect_url: "/thinking/thinking-peter-bloom"
         </div>
     </div>
 </section>
-
+</div>
 <!-- Everything before this is editable page content -->
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+</style>

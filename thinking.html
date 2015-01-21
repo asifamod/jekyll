@@ -4,6 +4,15 @@ title: Shuttleworth Foundation- Our Thinking
 ---
 <body id="thinking">
 <div class="page-wrapper">
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
 <!-- Everything after this should be Editable as content -->
 <section class="content-12 marg">
     <h1><a class="wide btn-wide btn-wide2" data-scroll href="#blog" style="background:transparent url(../images/open-page-header.jpg) center top no-repeat;">Our Thinking</a></h1>

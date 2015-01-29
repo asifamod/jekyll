@@ -7,6 +7,7 @@ tags:
   - open
 author: SF Team
 published: true
+thumbnail: "/images/blog/blog-open-strategy 2.jpg"
 image: "/images/blog/blog-open-strategy 2.jpg"
 description: The Foundation prefers to take its funding off the beaten track so to speak. We look for individuals and ideas that are not yet accepted in the mainstream, that challenge the status quo and bring a different perspective to addressing social challenges. We look for individuals and ideas that are...
 ---

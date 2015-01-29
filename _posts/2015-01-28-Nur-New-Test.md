@@ -7,7 +7,8 @@ tags:
   - privacy
 author: Test Team
 published: true
-image: "/images/blog/blog-democracy.jpg"
+image: "/images/blog/blog-open-strategy 2.jpg"
+thumbnail: "/images/blog/blog-democracy.jpg"
 description: Is this post reflecting live? I don't know ...
 ---
 ## A New Post

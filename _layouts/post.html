@@ -7,11 +7,11 @@
       
     {% include header.html %}
 
-<div class="page-wrapper">
+<div class="page-content">
 <!-- Featured Thinking Banner -->    
 <section class="header-10-sub v-center">
   <!-- insert featured image here -->
-    <div class="background" style="background-image: url(../../../../images/blog/blog-open-strategy.jpg);"></div>
+    <div class="background" style="background-image: url(../../../../images/blog/blog-welcome.jpg);"></div>
     <div>
         <div class="container">
         </div>
@@ -21,6 +21,7 @@
 
 <!-- Everything after this should be Editable as content -->
 <section class="blog-1">
+{% include breadcrumbs.html %}
     <div class="title" id="articlestart">
         <div class="container">
             <h3>{{page.title}}</h3>
@@ -68,7 +69,7 @@
         
     <!-- to be enabled later -->
       <div class="tags title">
-            Posted in
+            Posted in , 
             {% for tag in page.tags %}
              <a href="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</a>
              {% endfor %}

@@ -8,7 +8,7 @@ tags:
 author: Test Team
 published: true
 image: "/images/blog/blog-democracy.jpg"
-description: Test applied to the Foundation to expand his work on the Madison Project which...
+description: Is this post reflecting live? I don't know ...
 ---
 ## A New Post
 

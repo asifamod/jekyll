@@ -11,7 +11,7 @@ description: Philanthropic and charitable institutions seek to alleviate and sol
 <div class="page-wrapper">
 <!-- Featured Thinking Banner -->    
 <section class="header-10-sub v-center">
-														<!-- insert featured image here -->
+	<!-- insert featured image here -->
     <div class="background" style="background-image: url(../../../../images/blog/blog-open-strategy.jpg);"></div>
     <div>
         <div class="container">
@@ -77,5 +77,5 @@ description: Philanthropic and charitable institutions seek to alleviate and sol
         </div>
     </div>
 </section>
-
+</div>
 <!-- Everything before this is editable page content -->

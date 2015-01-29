@@ -1,6 +1,11 @@
 ---
 layout: default
 title: Shuttleworth Foundation- Our Thinking
+tags: 
+  - announcements
+  - open
+  - privacy
+  - thinking-application-pointers
 ---
 
 <body id="thinking">
@@ -14,20 +19,11 @@ title: Shuttleworth Foundation- Our Thinking
     <!-- Other Thought Pieces -->
 
         <div class="projects row project_row"> 
-           <ul>
-			  {% for post in site.posts %}
-			  {% for tag in site.tags %}
-			  <li class="archive_list">
-			    
+			  {% for tag in page.tags %}		    
 			    <ul class="tag_list">
-			      {% for tag in post.tags %}
 			      <li class="inline archive_list"><a class="tag_list_link" href="{{site.baseurl}}/tag/{{ tag }}">{{ tag }}</a></li>
-			      {% endfor %}
 			    </ul>
-			  </li>
 			  {% endfor %}
-			  {% endfor %}
-			</ul>
         </div>
 
     </div><!-- end project row -->

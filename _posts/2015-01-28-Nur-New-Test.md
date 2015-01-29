@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test Post
-post_date: 26 August 2014
+title: Nur's New Test
+post_date: 28 January 2015
 tags: 
   - announcements
   - privacy

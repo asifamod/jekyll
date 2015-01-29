@@ -9,26 +9,7 @@ author: Test Team
 published: true
 image: "/images/blog/blog-open-strategy 2.jpg"
 thumbnail: "/images/blog/blog-democracy.jpg"
-description: Is this post reflecting live? I don't know ...
+short_description: We're excited about Seamus Kraft joining the Shuttleworth Foundation Fellowship Programme in January 2015.
+
+description: applied to the Foundation to expand his work on the Madison Project which aims to open up government by increasing transparency and citizen participation in policy-making. .
 ---
-## A New Post
-
-### Title:
-{{page.title}}
-
-### Auther:
-{{page.author}}
-
-### Description:
-{{page.description}}
-
-### Post Date
-{{page.post_date}}
-
-### Tags
-{% for tag in page.tags %}
-[{{tag}}]({{site.baseurl}}/tag/{{ tag }})
-{% endfor %}
-
-### Image
-![]({{ page.image | prepend: site.baseurl}})

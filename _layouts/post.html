@@ -21,7 +21,15 @@
 
 <!-- Everything after this should be Editable as content -->
 <section class="blog-1">
-{% include breadcrumbs.html %}
+    <span class="no-print">
+    <span class="breadcrumbs"><!-- Breadcrumbs: -->
+       
+          <a href="{{ site.baseurl }}/">home</a> <span class="breadcrumb-divider">&#187;</span>
+         
+            <a href="{{ "/thinking" | prepend: site.baseurl }}">Thinking</a>            
+           <span class="breadcrumb-divider">&#187;</span>{{ page.title}}
+      </span>
+</span>
     <div class="title" id="articlestart">
         <div class="container">
             <h3>{{page.title}}</h3>

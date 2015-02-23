@@ -7,7 +7,7 @@ tags:
   - privacy
 author: Test Team
 published: true
-image: "/images/blog/blog-open-strategy 2.jpg"
+image: "/images/blog/blog-exit.jpg"
 thumbnail: "/images/blog/blog-democracy.jpg"
 short_description: We're excited about Seamus Kraft joining the Shuttleworth Foundation Fellowship Programme in January 2015.
 

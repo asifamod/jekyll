@@ -7,7 +7,7 @@ tags:
 author: SF Team
 published: true
 thumbnail: "/images/blog/blog-make-things-better.jpg"
-image: /images/blog/blog-make-things-better.jpg
+image: /images/blog/blog-exit.jpg
 description: The Shuttleworth Foundation was established in October 2000 with the belief...
 redirect_url: "/thinking/thinking-traditional-funder-to-today"
 created_by: Jessica Duensing for opensource.com. (CC BY-SA 2.0)

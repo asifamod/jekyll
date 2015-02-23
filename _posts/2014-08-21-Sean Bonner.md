@@ -7,7 +7,7 @@ tags:
 author: SF Team
 published: true
 thumbnail: "/images/blog/blog-electronics.jpg"
-image: /images/blog/blog-electronics.jpg
+image: /images/blog/blog-privacy 2.jpg
 description: Sean Bonner will be joining the Shuttleworth Foundaton Fellowship Program on...
 redirect_url: "/thinking/thinking-sean-bonner"
 created_by: Jessica Duensing for opensource.com. (CC BY-SA 2.0)

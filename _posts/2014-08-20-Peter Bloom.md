@@ -6,7 +6,7 @@ tags:
 - announcements
 author: SF Team
 published: true
-image: /images/blog/blog-phone.jpg
+image: /images/blog/blog-how-of-open 2.jpg
 thumbnail: "/images/blog/blog-phone.jpg"
 description: Through Rhizomatica, Peter is setting up affordable local mobile phone...
 redirect_url: "/thinking/thinking-peter-bloom"

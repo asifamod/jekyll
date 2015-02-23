@@ -9,9 +9,9 @@ author: SF Team
 published: true
 image: "/images/blog/blog-exit.jpg"
 thumbnail: "/images/blog/blog-democracy.jpg"
-short_description: The Foundation prefers to take its funding off the beaten track so to speak. We look for individuals and ideas that are not yet accepted in the mainstream, that challenge the status quo and
+short_description: The Foundation prefers to take its funding off the beaten track so to speak. We look for individuals and ideas that are not yet accepted in the mainstream, that challenge the status quo and...
 
-description: bring a different perspective to addressing social challenges.
+description: The Foundation prefers to take its funding off the beaten track so to speak. We look for individuals and ideas that are not yet accepted in the mainstream, that challenge the status quo and bring a different perspective to addressing social challenges.
 created_by: Jessica Duensing for opensource.com. (CC BY-SA 2.0)
 source: https://www.flickr.com/photos/opensourceway/6555466069
 

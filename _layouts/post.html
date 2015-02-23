@@ -50,12 +50,12 @@
             <!-- insert featured image here -->
             <img src="{{ page.image | prepend: site.baseurl}}">
             <p class="credit">
-                Created by Jessica Duensing for opensource.com. (CC BY-SA 2.0)<br />
-                Source: <a href="https://www.flickr.com/photos/opensourceway/6555466069">flickr.com/photos/opensourceway/6555466069</a>
+                Created by {{page.created_by}}<br />
+                Source: <a href="{{page.source}}">{{page.source}}</a>
             </p>
             </div>
         </div>
-
+       {{content}}
         
     <!-- to be enabled later -->
       <div class="tags title">

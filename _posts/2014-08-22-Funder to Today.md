@@ -10,4 +10,6 @@ thumbnail: "/images/blog/blog-make-things-better.jpg"
 image: /images/blog/blog-make-things-better.jpg
 description: The Shuttleworth Foundation was established in October 2000 with the belief...
 redirect_url: "/thinking/thinking-traditional-funder-to-today"
+created_by: Jessica Duensing for opensource.com. (CC BY-SA 2.0)
+source: https://www.flickr.com/photos/opensourceway/6555466069
 ---
